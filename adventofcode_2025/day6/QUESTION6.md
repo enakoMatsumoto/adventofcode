@@ -12,7 +12,7 @@ However, the problems are arranged a little strangely; they seem to be presented
 * 123 328  51 64 
 *  45 64  387 23 
 *   6 98  215 314
-* *   +   *   +  
+* \*   \+   \*   \+  
 Each problem's numbers are arranged vertically; at the bottom of the problem is the symbol for the operation that needs to be performed. Problems are separated by a full column of only spaces. The left/right alignment of numbers within each problem can be ignored.
 
 So, this worksheet contains four problems:
